@@ -1,2 +1,0 @@
-# krngrzbwbrdrcll
-kraina grzybow kennel
