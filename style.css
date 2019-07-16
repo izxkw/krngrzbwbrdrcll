@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo {
+	text-align:left;
+	margin-left:100px;
+}
+
+.layer1 {
+    float: left; /* Обтекание по правому краю */
+	margin-left:50px;
+   }
+   .layer2 {
+	margin-left:30px;
+    width: 800px; /* Ширина слоя */
+    float: left; /* Обтекание по правому краю */
+   }
+   
+   .layer3 {
+	margin-left:30px;
+    width: 480px; /* Ширина слоя */
+    float: left; /* Обтекание по правому краю */
+   }
+   
+   .clear {
+    clear: left; /* Отмена обтекания */
+   }
+   
+#container {
+    min-width: 400px; /* Минимальная ширина контейнера */
+	box-sizing: border-box;
+   }
